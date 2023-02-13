@@ -1,4 +1,4 @@
 # Telegram weather bot 💻
 Python weather bot
 
-<img width="374" alt="Снимок экрана 2023-02-13 в 20 17 45" src="https://user-images.githubusercontent.com/125242732/218497336-9068d219-76ac-47a8-9f93-0e5c9e1ef166.png">
+https://ray.so/#padding=128&language=javascript&code=ClhvemlyZ2kgVmFxdCBCbyd5aWNoYSAoMjAyMy0wMi0xMyAyMDoxOSkKClRhc2hrZW50IFNoYWhhciBvYi1oYXZvc2khCkhhcm9yYXQ6IDQuOMKwQyAgQnUgeWVyZGFuIGtvJ3Jpbm1heWFiZGkgOikKTmFtbGlrOiA2MCUKQm9zaW06IDEwMjMgbW0gc2ltLiB1c3QKU2hhbW9sOiAyLjA2IG0vcwpRdXlvc2ggQ2hpcWlzaGk6IDIwMjMtMDItMTMgMDc6MjE6MjMKUXV5b3NoIEJvdGlzaGk6IDIwMjMtMDItMTMgMTc6NTM6MDIKS3VubmluZyBVenVubGlnaTogMTA6MzE6MzkKClNhbG9tYXQgYm8nbGluZyEg8J-Zgg&darkMode=true&title=Telegram
