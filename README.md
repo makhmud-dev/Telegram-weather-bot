@@ -1,2 +1,2 @@
-# Telegram-weather-bot
+# Telegram weather bot 💻
 Python weather bot
